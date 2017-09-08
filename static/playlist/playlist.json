@@ -1,0 +1,207 @@
+{
+  "title": "Bu masalda peri yok - podCast",
+  "description": "",
+  "coverImage": "",
+  "options":{
+    "imageroot" : "http://podcast.apostylee.com/podcasts",
+    "soundfileroot" : "http://apostylee.com/podcast/bolums"
+  },
+  "list": [
+    {
+      "type": "mp3",
+      "id": "bolum1",
+      "title": "Bölüm 1",
+      "description": "Fehmi Can SağlamCikolatali Akan Kek 5. Bolum<br />https://soundcloud.com/fehmi-can-saglam<br /><br />10 Mart 2011 Etohum Toplantısı - Eren Bali - udemy.com http://vimeo.com/20993420<br /><br />Webrazzi Ofisi’nin bu haftaki konuğu Wallit Kurucusu Veysel Berk oldu http://webrazzi.com/2013/04/15/girisimler-webrazzi-ofisinde-veysel-berk-wallit/<br /><br />Jstanbul Meetup #003: The Happy Programmer, Nickel.rs on Rust http://www.meetup.com/jstanbul/events/199754192/",
+      "duration": "2614187",
+      "image": "/bolum1.jpg",
+      "recorddate": "2014/09/05 18:34:56 +0000",
+      "soundfile": {
+          "mp3": "/bolum1.mp3"
+        }
+    },
+    {
+      "type": "mp3",
+      "id": "bolum2",
+      "title": "Bölüm 2",
+      "description": "Cikolatali Akan Kek 0. Bolum https://soundcloud.com/fehmi-can-saglam/cikolatali-akan-kek-0-bolum",
+      "duration": "3055359",
+      "image": "/bolum2.jpg",
+      "recorddate": "2014/09/12 18:20:08 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum2.mp3"
+        }
+      
+    },
+    {
+      "type": "mp3",
+      "id": "bolum3",
+      "title": "Bölüm 3",
+      "description": "Debugging - http://en.wikipedia.org/wiki/Debugging<br /><br />JavaScript - http://en.wikipedia.org/wiki/JavaScript<br /><br />A component-based, event-driven JavaScript framework from Twitter <br />http://flightjs.github.io/<br /><br />AngularJS, Emberjs, Backbonejs, KnockoutJs<br /><br />Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. http://getbootstrap.com/<br /><br />https://soundcloud.com/fehmi-can-saglam/cikolatali-akan-kek-7-bolum",
+      "duration": "2395235",
+      "image": "/bolum3.jpg",
+      "recorddate": "2014/09/20 20:14:17 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum3.mp3"
+        }
+      
+    },
+    {
+      "type": "mp3",
+      "id": "bolum4",
+      "title": "Bölüm 4",
+      "description": "Hazelcast the Leading Open Source In-Memory Data Grid http://hazelcast.com<br /><br />http://www.alibaba.com/",
+      "duration": "2926955",
+      "image": "/bolum4.jpg",
+      "recorddate": "2014/09/28 11:00:09 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum4.mp3"
+        }
+      
+    },
+    {
+      "type": "mp3",
+      "id": "bolum5",
+      "title": "Bölüm 5",
+      "description": "Unicrow — Unique Solutions http://www.unicrow.com/\r<br />Fatih Turan https://twitter.com/fatihturan\r<br />Emre Efendioğlu https://twitter.com/emreefendioglu\r<br />Ümit Dincel - https://twitter.com/ktumit (Müller)",
+      "duration": "4609790",
+      "image": "/bolum5.jpg",
+      "recorddate": "2014/10/12 16:34:41 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum5.mp3"
+        }
+      
+    },
+    {
+      "type": "mp3",
+      "id": "bolum6",
+      "title": "Bölüm 6.2",
+      "description": "Yunus Emre Çavuşoğlu ile yazılım ağırlıklı sohbet ettik.<br />https://twitter.com/c_emreyns",
+      "duration": "2217167",
+      "image": "/bolum6.2.jpg",
+      "recorddate": "2014/10/26 18:37:08 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum6.2.mp3"
+        }
+      
+    },
+    {
+      "type": "mp3",
+      "id": "bolum7",
+      "title": "Bölüm 7",
+      "description": "Halit Alptekin ile sohbet etmeye çalıştık :) https://github.com/halitalptekin<br />https://twitter.com/halitalptekin<br />http://halitalptekin.com/<br /><br />https://asciinema.org/a/11128<br />http://www.gizemiskenderoglu.com/<br />http://octosec.net/<br />http://dojo.octosec.net/",
+      "duration": "2729816",
+      "image": "/bolum7.jpg",
+      "recorddate": "2014/10/31 08:42:41 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum7.mp3"
+        }
+      
+    },
+    {
+      "type": "mp3",
+      "id": "bolum8",
+      "title": "Bölüm 8",
+      "description": "KTÜ Elektrik Elektronik Kulübü - Kariyer Gelişim Günleri 15 de Trabzon HackerSpace olarak bir şeyler anlattık ve çaktırmadan bunu kayda aldık :D",
+      "duration": "2729816",
+      "image": "/bolum8.jpg",
+      "recorddate": "2015/03/20 10:10:00 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum8.mp3"
+        },
+      "speakers" : [
+         {
+           "displayName" : "Emre Efendioğlu",
+           "description" : "Unicrow Co-Founder"
+         },
+         {
+           "displayName" : "Gürkan Yarar",
+           "description" : "Robilab Co-Founder"
+         }
+      ]
+    },
+    {
+      "type": "mp3",
+      "id": "bolum9",
+      "title": "Bölüm 9",
+      "description": "Gökhan ile çeşitli teknolojik şeyler üzerine tatildeyken yaptığımız muhabbet.",
+      "duration": "2729816",
+      "image": "/bolum9.jpg",
+      "recorddate": "2015/09/24 20:24:00 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum9.mp3"
+        },
+      "speakers" : [
+         {
+           "displayName" : "M. Gökhan Elbir",
+           "description" : ""
+         }
+      ]
+    },
+    {
+      "type": "mp3",
+      "id": "bolum10",
+      "title": "Bölüm 10",
+      "description": "ilker Aksu ile geliştirme dünyası ile ilgili yaptığımız sohbet.",
+      "duration": "2729816",
+      "image": "/bolum10.jpg",
+      "recorddate": "2016/02/15 22:24:00 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum10.mp3"
+        },
+      "speakers" : [
+         {
+           "displayName" : "ilker Aksu",
+           "description" : "SiberUzay Teknolojileri"
+         }
+      ]
+    },
+    {
+      "type": "mp3",
+      "id": "bolum11",
+      "title": "Bölüm 11",
+      "description": "Halil İbrahim Nuroğlu ile tasarım, etkinlik ve hikayesini konuştuk.",
+      "duration": "2729816",
+      "image": "/bolum11.jpg",
+      "recorddate": "2016/02/03 18:59:00 +0000",
+      "soundfile": 
+        {
+          "mp3": "/bolum11.mp3"
+        },
+      "speakers" : [
+         {
+           "displayName" : "Halil İbrahim Nuroğlu",
+           "description" : "Ui Designer & Developer at www. Working at @unicrow and Founder at @Booksayingcom and love and joke, it's over."
+         }
+      ]
+    },
+    {
+      "type": "mp3",      
+      "id": "bolum12",
+      "title": "Bölüm 12",
+      "description": "Fehmi Can Sağlam ile Berlin (Zalando) Macerasını konuştuk.",
+      "duration": "2729816",
+      "image": "/bolum12.jpg",
+      "recorddate": "2017/08/16 23:00:00 +0000",
+      "cssclass" : "middle",
+      "soundfile": 
+        {
+          "mp3": "/bolum12.mp3"
+        },
+      "speakers" : [
+         {
+           "displayName" : "Fehmi Can Sağlam",
+           "description" : "Coder. Backend Engineer"
+         }
+      ]
+    }
+  ]
+}

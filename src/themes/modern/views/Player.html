@@ -1,0 +1,33 @@
+<div class="player">
+
+  <div class="custom-audio-player">
+    <a href="#" class="btn-play" @click.prevent="playerChange">
+      <span v-if="isPlaying">||</span>
+      <span v-else>▶︎</span>
+    </a>
+    <audio controls preload="none" controlsList="nodownload" ref="player">
+      <source v-if="currentList.soundfile" :src="currentList.soundfile.mp3" type="audio/mp3"> Your browser does not support the audio element.
+    </audio>
+  </div>
+
+  <p class="title">{{currentList.title}}</p>
+  <div class="cover-avatar">
+    <img :src="currentList.image" :alt="currentList.title">
+  </div>
+  <p class="description" v-html="currentList.description" @click.prevent="openModal"></p>
+  <div class="cover-image" :style="{ backgroundImage: 'url('+currentList.image+')' }"></div>
+
+  <!-- Modal: https://codepen.io/rauldronca/pen/QEraba -->
+  <div class="modal-wrapper">
+    <div class="modal">
+      <div class="head">
+        <span>{{currentList.recorddateformatted}}</span>
+        <a class="btn-close trigger" href="#" @click.prevent="closeModal">x</a>
+      </div>
+      <div class="content">
+        <div class="modal-description" v-html="currentList.description"></div>
+      </div>
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,10 @@
+{
+    "name": "vueaudioplayer",
+    "version": "1.0.0",
+    "description": "vue audio player",
+    "author": "Abdullah Ugraskan",
+    "private": true,
+    "scripts": {
+      "postinstall": "npm install express"
+    }
+}

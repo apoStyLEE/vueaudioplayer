@@ -1,0 +1,11 @@
+<div class="list">
+
+    <ul class="list-items" v-for="(item,index) in playList.list" v-bind:key="item">
+      <li>
+        <router-link :to="{path : item.detailsUrl}" @click.native="playerControl(item.id)">
+            <span class="number" v-bind:class="{ playing: isPlaying }"><em>{{ index+1 }}</em></span> <span class="title">{{item.title}}</span>
+        </router-link>
+      </li>
+    </ul>
+
+</div>
